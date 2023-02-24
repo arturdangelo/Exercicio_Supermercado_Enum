@@ -1,0 +1,15 @@
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Exercicio_Supermercado\bin\Debug\net7.0\Exercicio_Supermercado.exe
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Exercicio_Supermercado\bin\Debug\net7.0\Exercicio_Supermercado.deps.json
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Exercicio_Supermercado\bin\Debug\net7.0\Exercicio_Supermercado.runtimeconfig.json
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Exercicio_Supermercado\bin\Debug\net7.0\Exercicio_Supermercado.dll
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Exercicio_Supermercado\bin\Debug\net7.0\Exercicio_Supermercado.pdb
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Exercicio_Supermercado\obj\Debug\net7.0\Exercicio_Supermercado.csproj.AssemblyReference.cache
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Exercicio_Supermercado\obj\Debug\net7.0\Exercicio_Supermercado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Exercicio_Supermercado\obj\Debug\net7.0\Exercicio_Supermercado.AssemblyInfoInputs.cache
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Exercicio_Supermercado\obj\Debug\net7.0\Exercicio_Supermercado.AssemblyInfo.cs
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Exercicio_Supermercado\obj\Debug\net7.0\Exercicio_Supermercado.csproj.CoreCompileInputs.cache
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Exercicio_Supermercado\obj\Debug\net7.0\Exercicio_Supermercado.dll
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Exercicio_Supermercado\obj\Debug\net7.0\refint\Exercicio_Supermercado.dll
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Exercicio_Supermercado\obj\Debug\net7.0\Exercicio_Supermercado.pdb
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Exercicio_Supermercado\obj\Debug\net7.0\Exercicio_Supermercado.genruntimeconfig.cache
+D:\Artur D'Angelo\Documents\Programação\C#\Udemy\Teste\HelloWord\Exercicio_Supermercado\obj\Debug\net7.0\ref\Exercicio_Supermercado.dll
